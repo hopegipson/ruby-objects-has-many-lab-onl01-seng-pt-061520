@@ -18,6 +18,7 @@ class Song
       artistname
     else
       nil
+    end
   end
   
 end
